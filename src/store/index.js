@@ -219,7 +219,7 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "",
+          label: "HostLoc",
           name: "hostloc",
           order: 35,
           show: false,
@@ -237,13 +237,13 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "",
+          label: "爱范儿",
           name: "ifanr",
           order: 38,
           show: false,
         },
         {
-          label: "",
+          label: "IT之家-喜加一",
           name: "ithome-xijiayi",
           order: 39,
           show: false,
@@ -261,13 +261,13 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "",
+          label: "NodeSeek",
           name: "nodeseek",
           order: 42,
           show: false,
         },
         {
-          label: "",
+          label: "纽约时报",
           name: "nytimes",
           order: 43,
           show: false,
@@ -285,7 +285,7 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "",
+          label: "什么值得买",
           name: "smzdm",
           order: 46,
           show: false,
@@ -297,13 +297,13 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "天气预报",
+          label: "气象预警",
           name: "weatheralarm",
           order: 48,
           show: false,
         },
         {
-          label: "",
+          label: "游研社",
           name: "yystv",
           order: 49,
           show: false,
