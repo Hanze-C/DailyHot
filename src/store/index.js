@@ -183,13 +183,13 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "",
+          label: "数字尾巴",
           name: "dgtle",
           order: 29,
           show: false,
         },
         {
-          label: "",
+          label: "地震速报",
           name: "earthquake",
           order: 30,
           show: false,
@@ -201,13 +201,13 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
-          label: "",
+          label: "果壳",
           name: "guokr",
           order: 32,
           show: false,
         },
         {
-          label: "",
+          label: "历史",
           name: "history",
           order: 33,
           show: false,
